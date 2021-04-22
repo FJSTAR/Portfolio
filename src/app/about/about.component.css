@@ -1,0 +1,25 @@
+.row {
+  margin-top: 20px;
+}
+.profilePic {
+  border-radius: 200px;
+  padding-left: 10px;
+}
+i {
+  color: white;
+  font-size: 40px;
+}
+p {
+  color: white;
+  font-size: 20px;
+}
+h1 {
+  color: white;
+}
+.skills {
+  size: 2px;
+}
+span {
+  font-size: 30px;
+  color: white;
+}

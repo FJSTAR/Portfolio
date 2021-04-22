@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+nav {
+  font-family: monospace;
+}
+.navbar-brand:hover {
+  color: #28a745;
+}
