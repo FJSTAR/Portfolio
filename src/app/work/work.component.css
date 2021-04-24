@@ -17,3 +17,15 @@ p {
 .reva {
   width: 200px;
 }
+.atrihover:hover {
+  color: #007bff;
+}
+.atrihover {
+  text-decoration: none;
+}
+.devhover:hover {
+  color: orange;
+}
+.devhover {
+  text-decoration: none;
+}
