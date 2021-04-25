@@ -23,3 +23,29 @@ span {
   font-size: 30px;
   color: white;
 }
+.angular:hover {
+  color: #dc3545;
+}
+.react:hover {
+  color: aqua;
+}
+.bootstrap:hover {
+  color: rgb(82, 82, 231);
+}
+.javascript:hover {
+  color: yellow;
+}
+.html:hover {
+  color: rgb(247, 111, 62);
+}
+.css:hover {
+  color: #17a2b8;
+}
+.angular,
+.react,
+.bootstrap,
+.javascript,
+.html,
+.css {
+  text-decoration: none;
+}
