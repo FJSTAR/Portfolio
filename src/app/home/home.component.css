@@ -27,11 +27,14 @@
 }
 .padding {
   padding-right: 0;
-  padding-left: 0;
+  padding-left: 10px;
 }
 .icons:hover {
   color: #28a745;
 }
 .row {
   width: 101%;
+}
+img {
+  height: 612px;
 }
